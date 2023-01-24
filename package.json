@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csgo.js": "^1.0.1",
+    "globaloffensive": "^2.3.0",
+    "node-steam-user": "^0.0.3",
+    "readline-sync": "^1.4.10",
+    "steam-user": "^4.27.0"
+  }
+}
